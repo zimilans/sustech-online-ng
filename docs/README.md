@@ -10,12 +10,16 @@
 
 
 <!-- ## 快捷入口 -->
-<!-- * [官网链接](https://www.sustech.edu.cn/)
-* [图书馆](https://lib.sustech.edu.cn/)
+<!-- 
+* [官网链接](https://www.sustech.edu.cn)
+* [图书馆](https://lib.sustech.edu.cn)
 * [邮箱服务](https://mail.sustech.edu.cn)
-* [Sakai](https://sakai.sustech.edu.cn), [Blackboard](https://bb.sustech.edu.cn/)
-* [联创打印服务](https://pms.sustech.edu.cn)
-* [校园卡二维码](https://campuscard.sustech.edu.cn/epay/thirdconsume/qrcode) -->
+* [服务大厅](https://ehall.sustech.edu.cn)
+* [联创打印](https://pms.sustech.edu.cn)
+* [Sakai](https://sakai.sustech.edu.cn)
+* [Blackboard](https://bb.sustech.edu.cn)
+* [备用](http://172.18.1.141)
+* [校园卡二维码](https://campuscard.sustech.edu.cn/epay/thirdconsume/qrcode)-->
 
 <style type="text/css">
 .tg{border: 1px solid transparent;font-weight:normal;}
@@ -24,7 +28,8 @@
 
 <svg style="display: none">
   <symbol id="link-icon" viewBox="0 0 100 100">
-  <path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon>
+  <path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> 
+  <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon>
   </symbol>
 </svg>
 <table class="tg">
@@ -41,17 +46,21 @@
     <svg aria-hidden="true" x="0px" y="0px" width="15" height="15" class="icon outbound"><use href="#link-icon" /></svg></a></li>
     <li><a href="https://ehall.sustech.edu.cn/new/index.html" target="_blank" rel="noopener noreferrer">服务大厅
     <svg aria-hidden="true" x="0px" y="0px" width="15" height="15" class="icon outbound"><use href="#link-icon" /></svg></a></li>
-    <li><a href="https://sakai.sustech.edu.cn" target="_blank" rel="noopener noreferrer">Sakai
-    <svg aria-hidden="true" x="0px" y="0px" width="15" height="15" class="icon outbound"><use href="#link-icon" /></svg></a>, <a href="https://bb.sustech.edu.cn/" target="_blank" rel="noopener noreferrer">Blackboard<svg aria-hidden="true" x="0px" y="0px" width="15" height="15" class="icon outbound"><use href="#link-icon" /></svg></a></li>
-    <li><a href="https://pms.sustech.edu.cn" target="_blank" rel="noopener noreferrer">联创打印<svg aria-hidden="true" x="0px" y="0px" width="15" height="15" class="icon outbound"><use href="#link-icon" /></svg></a>, <a href="http://172.18.1.141/" target="_blank" rel="noopener noreferrer">（备用）<svg aria-hidden="true" x="0px" y="0px" width="15" height="15" class="icon outbound"><use href="#link-icon" /></svg></a></li>
-      <li><a href="https://campuscard.sustech.edu.cn/epay/thirdconsume/qrcode" target="_blank" rel="noopener noreferrer">校园卡二维码
+    <li><a href="https://pms.sustech.edu.cn" target="_blank" rel="noopener noreferrer">联创打印
     <svg aria-hidden="true" x="0px" y="0px" width="15" height="15" class="icon outbound"><use href="#link-icon" /></svg></a></li>
-    </ul>
+    <li><a href="https://sakai.sustech.edu.cn" target="_blank" rel="noopener noreferrer">Sakai
+    <svg aria-hidden="true" x="0px" y="0px" width="15" height="15" class="icon outbound"><use href="#link-icon" /></svg></a></li>
+    <li><a href="https://bb.sustech.edu.cn/" target="_blank" rel="noopener noreferrer">Blackboard
+    <svg aria-hidden="true" x="0px" y="0px" width="15" height="15" class="icon outbound"><use href="#link-icon" /></svg></a></li>
+    <li><a href="http://172.18.1.141/" target="_blank" rel="noopener noreferrer">（备用）
+    <svg aria-hidden="true" x="0px" y="0px" width="15" height="15" class="icon outbound"><use href="#link-icon" /></svg></a></li>
+    <li><a href="https://campuscard.sustech.edu.cn/epay/thirdconsume/qrcode" target="_blank" rel="noopener noreferrer">校园卡二维码
+    <svg aria-hidden="true" x="0px" y="0px" width="15" height="15" class="icon outbound"><use href="#link-icon" /></svg></a></li></ul>
     </th>
     <th class="tg-0lax">
     <h3><a href="./transport/">交通 / 地图<svg aria-hidden="true" x="0px" y="0px" width="15" height="15" class="icon outbound"><use href="#link-icon" /></svg></a></h3>
     <ul>
-    <li><a href="./transport/bustimer.html">巴士时刻表与车辆位置查看</a></li>
+    <li><a href="./transport/bustimer.html">校巴时刻表与车辆位置查看</a></li>
     <li><a href="https://sustech.online/facility/">校园街景</a></li>
     <li><a href="https://nces.cra.moe/">牛娃课程评价社区<Badge text="春季选课" type="danger"/></a></li>
     <li><a href="http://live.cra.moe/">校园风景直播</a></li>
